@@ -1,0 +1,15 @@
+export const allParticipants = [
+  "Sayan Bairi", "Rhine Dutta", "Gaurav Dutta", "Subhadip Adak", "Debosmita Samanta",
+  "Dipanjan Basak", "Argha Bakshi", "Sneha Kumari", "Manyata Daya", "Supratik Bhowal",
+  "Mrinmoy Maji", "Joydeep Panda", "Aniruddha Chaudhury", "Ratan Jana", "Md Sakib Mukhtar",
+  "Sishir Gope", "Ipsita Das", "Dhrubo Jyoti Nayak", "Sayan Roy", "AYANANGSHU DAS",
+  "MANOB BARAI", "Shreyan Das", "Abir Mitra", "Shreysh Shekhar", "Anik Chiney",
+  "Ariyan Saha", "Aditya chaubey", "Srijan Chakraborty", "Harsh Kumar Jha",
+  "Shubhro Sundar Sengupta", "Bijoy Saha", "Soumavo Ganguly", "Tuhin Sen", "Aditi Rai",
+  "Richik Ray", "Ayush Raha", "Samriddhi Podder", "Syed Md Amaanul Haque", "Saikat Ghosh",
+  "Antarip Das", "Sampreeti Basak", "Shruti Kumari", "Gaurav kumar", "Tanmay Kundu",
+  "Sahitya Jana", "Tanmay Chakraborty", "Shreyasi Paul", "Sneha Ray Chowdhury",
+  "Anirban Routh", "Sataraj Mukherjee", "PRASANSA Gupta", "Alokesh Maitra", "Samir Sharma",
+  "Aarav Raj", "Sagnik Adhikary", "DIPAN MALLICK", "Souvik Kumar Ghosh", "KETAN KUMAR VERMA",
+  "Ammit Dubey", "Moumita", "JYOTISHA BISWAS",
+];
